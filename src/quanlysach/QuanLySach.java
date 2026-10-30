@@ -1,8 +1,8 @@
-package btt3;
+package quanlysach;
 
 import java.util.Scanner;
 
-public class BTT3 {
+public class QuanLySach {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
